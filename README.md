@@ -35,4 +35,5 @@ Frontend Developer from Kazakhstan, focused on building clean, adaptive, and mai
 
 ### 📫 Connect with me
 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dizza19)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dizza19)
