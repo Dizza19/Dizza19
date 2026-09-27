@@ -23,8 +23,8 @@ Frontend Developer from Kazakhstan, focused on building clean, adaptive, and mai
 
 ### 🚀 Featured Projects
 
-* **[RSS Aggregator (frontend-project-11)](https://github.com/Dizza19/frontend-project-11)** — Single Page Application (SPA) that aggregates news feeds in real-time. Built with DOM manipulation, state management, OOP, input validation (Yup), AJAX/CORS proxies, and deployed on Vercel.
-* **[Difference Calculator / Gendiff (frontend-project-46)](https://github.com/Dizza19/frontend-project-46)** — Command Line Interface (CLI) utility that compares two configuration files (JSON, YAML) and shows differences in various formats (stylish, plain, json). Written in Node.js and fully covered with unit tests using **Jest**.
+* **[RSS Aggregator](https://github.com/Dizza19/frontend-project-11)** — Single Page Application (SPA) that aggregates news feeds in real-time. Built with DOM manipulation, state management, OOP, input validation (Yup), AJAX/CORS proxies, and deployed on Vercel.
+* **[Difference Calculator / Gendiff ](https://github.com/Dizza19/frontend-project-46)** — Command Line Interface (CLI) utility that compares two configuration files (JSON, YAML) and shows differences in various formats (stylish, plain, json). Written in Node.js and fully covered with unit tests using **Jest**.
 * **[Brain Games](https://github.com/Dizza19)** — A collection of interactive CLI math games built with Node.js to practice core JS concepts, function composition, and modular project architecture.
 
 ---
